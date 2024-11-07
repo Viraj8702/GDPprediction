@@ -1,0 +1,65 @@
+# 1997 to 2015 dataset only Nominal GDP
+https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/analysisofrevisionsinbluebooksandpinkbooksannexes
+
+# All data from 1988 to 2023
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/august2024
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/ukea
+
+
+# Recession observed during 2008 and 2009
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/the2008recession10yearson/2018-04-30
+
+# Inflation observed
+https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceinflation
+
+# Government spending
+https://ifs.org.uk/taxlab/taxlab-key-questions/what-does-government-spend-money
+
+# Household consumption
+https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/timeseries/abjr/pn2
+
+# Business Investment 
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/businessinvestment/apriltojune2024revisedresults
+
+# Bank Rate
+https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp
+https://www.mortgagestrategy.co.uk/analysis/historical-interest-rates-uk/
+
+# Gas fuel energy
+https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/energy
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/cjvf/mm23
+Used:
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/dogq/mm23
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/czda/mm23
+
+# Trade Data (Exports and Imports)
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradeallcountriesseasonallyadjusted
+
+# Business Confidence and Consumer Sentiment
+https://tradingeconomics.com/united-kingdom/consumer-confidence
+https://tradingeconomics.com/united-kingdom/business-confidence
+
+# Population Growth and Labour Market Participation
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries/ukpop/pop
+https://tradingeconomics.com/united-kingdom/labor-force-participation-rate
+data source download:
+https://fred.stlouisfed.org/series/LRAC64TTGBQ156S
+
+
+
+**********
+https://commonslibrary.parliament.uk/research-briefings/cbp-9366/#:~:text=In%20June%20to%20August%202024,the%20employment%20rate%20also%20increasing.
+https://commonslibrary.parliament.uk/research-briefings/sn02817/
+
+---------------
+Article: https://www.thetimes.com/money-mentor/income-budgeting/rpi-versus-cpi#:~:text=They%20are%3A,RPI%3A%20the%20retail%20price%20index
+
+------------
+https://www.coursera.org/learn/convolutional-neural-networks?action=enroll&adgroupid=&adposition=&campaignid=20858198824&creativeid=&device=c&devicemodel=&gad_source=1&gclid=EAIaIQobChMIpLLNl9X-iAMVrrVoCR3B8AXYEAAYASAAEgJTbPD_BwE&hide_mobile_promo&keyword=&matchtype=&network=x&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&utm_medium=sem&utm_source=gg
+
+
+arima
+sarima
+lstm
+prophet
+Exponential Smoothing State Space Models 
